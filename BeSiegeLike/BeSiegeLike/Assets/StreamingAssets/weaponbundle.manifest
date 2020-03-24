@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 1526499967
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ab37cb5d85dcb29960e87cbfb0f89b59
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 89a6a94850b93313ce973a5a32dcc404
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a8dbe990e5dc5674f8a488d7894e2fcb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9b36e7b16b90e334991512ecbdc99233, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7bfaf106d493197499b0a43dc568fd12, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Weapon/Cannon.prefab
+Dependencies: []
