@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 2658635785
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: spriteblockbundle
+      Dependencies: {}
+    Info_1:
+      Name: spritemovementbundle
+      Dependencies: {}
+    Info_2:
+      Name: blockbundle
+      Dependencies:
+        Dependency_0: spriteblockbundle
+    Info_3:
+      Name: movementbundle
+      Dependencies: {}
+    Info_4:
+      Name: spriteweaponbundle
+      Dependencies: {}
+    Info_5:
+      Name: levelbundle
+      Dependencies: {}
+    Info_6:
+      Name: weaponbundle
+      Dependencies: {}

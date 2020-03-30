@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3582027582
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bd78de07972ac626bac1f8e66ddffa50
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Sprites/Movement/Balloon.png
+- Assets/Sprites/Movement/Wheel.png
+- Assets/Sprites/Movement/DrivingWheel.png
+- Assets/Sprites/Movement/Reactors.png
+Dependencies: []

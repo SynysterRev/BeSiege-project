@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2787577270
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e89b7a2e93a323779b0ba3ec8be111ed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Sprites/Block/BasicBlock3.png
+- Assets/Sprites/Block/BasicBlock1.png
+- Assets/Sprites/Block/BasicBlock2.png
+- Assets/Sprites/Block/BasicBlock.png
+Dependencies: []
